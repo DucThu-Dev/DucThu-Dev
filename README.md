@@ -6,9 +6,9 @@ I'm Trần Đức Thư, an Android - Flutter developer.
 <br/>
 <br/>
 
-- 🔭 I’m currently graduated and working at Laidon Consulting JSC
+- 🔭 I’m currently working at Inventis Vietnam.
  
-- 🗼 Living in **Ho Chi Minh city, Vietnam**
+- 🗼 Living in **Ho Chi Minh City, Vietnam**
  
 - 😁 Book and League of Legends 📘 🎮
 
